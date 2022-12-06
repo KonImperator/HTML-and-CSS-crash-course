@@ -1,0 +1,25 @@
+p {
+    font-family: Arial;
+    margin-top: 0;
+    margin-bottom: 8px;
+}
+.website {
+    font-weight: bold;
+}
+
+.handle {
+    color: rgb(96,96,96);
+}
+
+.tag {
+    color: rgb(44, 135, 215);
+    cursor: pointer;
+}
+
+.last {
+    margin-top: 20px;
+}
+
+.wrap {
+    width: 550px;
+}

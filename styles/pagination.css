@@ -1,0 +1,25 @@
+.nav {
+    padding: 12px 10px;
+    vertical-align: top;
+    cursor: pointer;
+}
+
+.nav a {
+    text-decoration: none;
+}
+
+.pagination {
+    display: inline-block;
+    margin-top: 3px;
+}
+
+.pagination a {
+    color: blue;
+    float: left;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+.pagination a:hover {
+    background-color: rgb(99, 148, 101);
+}
