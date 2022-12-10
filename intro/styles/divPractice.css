@@ -1,0 +1,58 @@
+.circle {
+    width: 100px;
+    height: 100px;
+    display: block;
+    border-radius: 50px;
+    background-color: orange;
+}
+
+.border-container {
+    margin-top: 30px;
+    display: inline-block;
+    width: 300px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+}
+
+button {
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 6px;
+    padding-right: 6px;
+    margin-bottom: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.yes-button {
+    margin-left: 20px;
+}
+
+.survey {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 20px;
+}
+
+.youtube-container {
+    margin-top: 30px;
+    width: 360px;
+    background-color: rgb(33, 33, 33);
+    padding-top: 1px;
+    padding-bottom: 1px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.title {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+
+}
+
+.description {
+    font-family: Arial, Helvetica, sans-serif;
+    color: grey;
+}
