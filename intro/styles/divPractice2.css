@@ -10,10 +10,25 @@
     box-shadow: 0 10px 10px rgba(0, 0, 0, 0.3);
 }
 
-img {
+.cat {
     width: 190px;
     height: 190px;
     object-fit: cover;
+    object-position: left;
+}
+
+.pic {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.profile-pic {
+    margin-left: 10px;
+    display: inline-block;
+    object-fit: cover;
+    width: 30px;
+    height: 30px;
+    border-radius: 30px;
     object-position: left;
 
 }
@@ -26,7 +41,12 @@ img {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+.friends-div {
+    display: inline-block;
+}
+
 .friends {
+    width: 100px;
     padding-left: 8px;
     color: rgb(113, 113, 113);
     margin-top: 0;
