@@ -1,0 +1,40 @@
+.overlay {
+    display: grid;
+    grid-template-columns: 200px 75px;
+}
+
+.one {
+    background-color: aqua;
+}
+
+.two {
+    background-color: brown;
+}
+
+.overlay2 {
+    display: grid;
+    grid-template-columns: 50px 1fr 75px;
+}
+
+.three {
+    background-color: aquamarine;
+}
+
+.four {
+    background-color: yellow;
+}
+
+.five {
+    background-color: yellowgreen;
+}
+
+.overlay3 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    row-gap: 10px;
+    column-gap: 20px;
+}
+
+.six {
+    background-color: orange;
+}
