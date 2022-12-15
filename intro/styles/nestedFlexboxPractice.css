@@ -1,0 +1,43 @@
+.container {
+    display: flex;
+    margin-bottom: 2rem;
+}
+
+.container2 {
+    display: flex;
+    height: 3rem;
+}
+
+.div1 {
+    display: flex;
+    background-color: lightpink;
+    width: 6.25rem;
+    align-items: center;
+    justify-content: center;
+}
+
+.inner-div {
+    background-color: black;
+    color: white;
+}
+
+.div2 {
+    background-color: lightblue;
+    width: 12.5rem;
+}
+
+.div3 {
+    background-color: lightpink;
+    width: 6.25rem;
+}
+
+.div4 {
+    background-color: lightblue;
+    width: 12.5rem;
+}
+
+.div5 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
